@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Nayi"
-  avatar           : "/assets/images/luckcat.jpg"
+  avatar           : "/assets/luckcat.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
