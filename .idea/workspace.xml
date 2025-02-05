@@ -54,7 +54,7 @@
       <updated>1738695081308</updated>
       <workItem from="1738695082835" duration="2217000" />
       <workItem from="1738697705287" duration="447000" />
-      <workItem from="1738732929357" duration="485000" />
+      <workItem from="1738732929357" duration="912000" />
     </task>
     <task id="LOCAL-00001" summary="初始化博客">
       <option name="closed" value="true" />
@@ -128,11 +128,42 @@
       <option name="project" value="LOCAL" />
       <updated>1738733157695</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="更换了一个简约主题">
+      <option name="closed" value="true" />
+      <created>1738733834174</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738733834174</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化博客" />
