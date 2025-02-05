@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8448f75a-2a80-4f45-b0d0-20e70b68302b" name="更改" comment="更换了一个简约主题" />
+    <list default="true" id="8448f75a-2a80-4f45-b0d0-20e70b68302b" name="更改" comment="初始化头像">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/me.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/me.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,23 +27,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/blog/assets/images&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/blog/assets/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\blog\assets\img" />
       <recent name="D:\blog\assets\images" />
     </key>
   </component>
@@ -54,7 +58,7 @@
       <updated>1738695081308</updated>
       <workItem from="1738695082835" duration="2217000" />
       <workItem from="1738697705287" duration="447000" />
-      <workItem from="1738732929357" duration="912000" />
+      <workItem from="1738732929357" duration="2237000" />
     </task>
     <task id="LOCAL-00001" summary="初始化博客">
       <option name="closed" value="true" />
@@ -136,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738733834174</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="初始化头像">
+      <option name="closed" value="true" />
+      <created>1738734136500</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1738734136500</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +184,7 @@
     <MESSAGE value="初始化posts目录" />
     <MESSAGE value="第一篇博客" />
     <MESSAGE value="更换了一个简约主题" />
-    <option name="LAST_COMMIT_MESSAGE" value="更换了一个简约主题" />
+    <MESSAGE value="初始化头像" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化头像" />
   </component>
 </project>
