@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8448f75a-2a80-4f45-b0d0-20e70b68302b" name="更改" comment="初始化头像">
+    <list default="true" id="8448f75a-2a80-4f45-b0d0-20e70b68302b" name="更改" comment="2025-02-05 一些杂谈 创建这个博客的初衷">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/me.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/me.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-25-Blogging.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-25-Install.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-25-Intro.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
       <updated>1738695081308</updated>
       <workItem from="1738695082835" duration="2217000" />
       <workItem from="1738697705287" duration="447000" />
-      <workItem from="1738732929357" duration="2237000" />
+      <workItem from="1738732929357" duration="2962000" />
     </task>
     <task id="LOCAL-00001" summary="初始化博客">
       <option name="closed" value="true" />
@@ -148,7 +150,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738734136500</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="修改一些基础信息">
+      <option name="closed" value="true" />
+      <created>1738738625023</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1738738625023</updated>
+    </task>
+    <task id="LOCAL-00013" summary="2025-02-05 一些杂谈 创建这个博客的初衷">
+      <option name="closed" value="true" />
+      <created>1738739257569</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1738739257569</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +203,8 @@
     <MESSAGE value="第一篇博客" />
     <MESSAGE value="更换了一个简约主题" />
     <MESSAGE value="初始化头像" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化头像" />
+    <MESSAGE value="修改一些基础信息" />
+    <MESSAGE value="2025-02-05 一些杂谈 创建这个博客的初衷" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025-02-05 一些杂谈 创建这个博客的初衷" />
   </component>
 </project>
