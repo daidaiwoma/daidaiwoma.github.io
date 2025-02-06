@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8448f75a-2a80-4f45-b0d0-20e70b68302b" name="更改" comment="2025-02-05 一些杂谈 创建这个博客的初衷">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-12-25-Blogging.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-12-25-Install.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-12-25-Intro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2025-02-05-FirstBlog.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2025-02-05-FirstBlog.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +34,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/blog/assets/img",
+    "last_opened_file_path": "D:/blog",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editing.templates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -49,6 +49,21 @@
       <recent name="D:\blog\assets\img" />
       <recent name="D:\blog\assets\images" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="blog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="blog" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -60,7 +75,10 @@
       <updated>1738695081308</updated>
       <workItem from="1738695082835" duration="2217000" />
       <workItem from="1738697705287" duration="447000" />
-      <workItem from="1738732929357" duration="2962000" />
+      <workItem from="1738732929357" duration="3386000" />
+      <workItem from="1738815314968" duration="19000" />
+      <workItem from="1738815355129" duration="257000" />
+      <workItem from="1738815618520" duration="608000" />
     </task>
     <task id="LOCAL-00001" summary="初始化博客">
       <option name="closed" value="true" />
@@ -166,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738739257569</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2025-02-05 一些杂谈 创建这个博客的初衷">
+      <option name="closed" value="true" />
+      <created>1738739351965</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1738739351965</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
