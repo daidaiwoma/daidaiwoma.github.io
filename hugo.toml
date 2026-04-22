@@ -5,20 +5,31 @@ theme = 'PaperMod'
 
 [params]
     defaultTheme = "dark"
-    # 强制开启显示文章全文摘要（可选）
-    showFullContents = false
-    displayFullPostContent = false
+    env = "production"
+    author = "daidaiwoma"
+    description = "专注于 Go 语言后端与 AI 应用开发的技术博客"
+
+    ShowReadingTime = true
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = true
+    ShowShareButtons = false
+    ShowRssButtonInSectionTermList = false
 
     [params.homeInfoParams]
-        Title = "Hi, I'm daidaiwoma."
-        Content = "专注于 Go 语言后端与 AI 应用开发。正在执行“延长周末”计划。"
+        Title = "欢迎来到我的空间."
+        Content = "Java & Go 语言后端 与 AI 应用开发"
+
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/daidaiwoma"
+
+    [[params.socialIcons]]
+        name = "rss"
+        url = "/index.xml"
 
 # 导航栏配置
 [[menu.main]]
     name = "~/posts"
     url = "/posts/"
     weight = 10
-[[menu.main]]
-    name = "~/projects"
-    url = "/projects/"
-    weight = 20
