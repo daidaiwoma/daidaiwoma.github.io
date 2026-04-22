@@ -1,0 +1,78 @@
+/* ══════════════════════════════════════════════════
+   GitHub Dark + Go Blue
+   ══════════════════════════════════════════════════ */
+
+:root {
+    --go-blue:    #00add8;
+    --term-green: #7ee787;
+}
+
+/* 覆盖 PaperMod 暗色变量 */
+:root[data-theme="dark"] {
+    --theme:         #0d1117;
+    --entry:         #161b22;
+    --primary:       #e6edf3;
+    --secondary:     #8b949e;
+    --tertiary:      #21262d;
+    --content:       #c9d1d9;
+    --code-block-bg: #161b22;
+    --code-bg:       #1f2428;
+    --border:        #30363d;
+}
+
+/* ══ 导航栏底部线 ══ */
+[data-theme="dark"] header {
+    border-bottom: 1px solid #21262d;
+}
+
+/* 当前激活的菜单项用 Go 蓝 */
+[data-theme="dark"] .menu .active {
+    color: var(--go-blue);
+    border-bottom-color: var(--go-blue);
+}
+
+/* Hero 区域与文章列表之间的分割线 */
+.first-entry.home-info {
+    border-bottom: 1px solid #21262d;
+    padding-bottom: calc(var(--gap) * 2);
+    margin-bottom: calc(var(--gap) * 1.5);
+}
+
+/* ══ 文章列表卡片 ══ */
+[data-theme="dark"] .post-entry {
+    border-color: #21262d;
+    transition: border-color 0.2s ease, transform 0.15s ease, box-shadow 0.2s ease;
+}
+
+[data-theme="dark"] .post-entry:hover {
+    border-color: var(--go-blue);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px rgba(0, 173, 216, 0.08);
+}
+
+/* 卡片悬停时标题跟着变色 */
+[data-theme="dark"] .post-entry:hover .entry-header h2 {
+    color: var(--go-blue);
+    transition: color 0.2s ease;
+}
+
+/* ══ 正文内链接 ══ */
+[data-theme="dark"] .md-content a {
+    color: var(--go-blue);
+    text-decoration-color: rgba(0, 173, 216, 0.35);
+}
+
+[data-theme="dark"] .md-content a:hover {
+    text-decoration-color: var(--go-blue);
+}
+
+/* ══ 代码块边框 ══ */
+[data-theme="dark"] .highlight {
+    border: 1px solid #30363d;
+    border-radius: var(--radius);
+}
+
+/* inline code 微调 */
+[data-theme="dark"] code {
+    color: var(--term-green);
+}
