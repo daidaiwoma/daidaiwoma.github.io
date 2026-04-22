@@ -1,0 +1,12 @@
+baseURL: "https://daidaiwoma.github.io/"
+title = "Gopher.log"
+theme = "PaperMod"
+
+languageCode = "zh-cn"
+defaultContentLanguage = "zh-cn"
+
+[params]
+    defaultTheme = "dark"
+    [params.homeInfoParams]
+        Title = "Hi, I'm a Developer."
+        Content = "专注于 Go 语言后端与 AI 应用开发。"
