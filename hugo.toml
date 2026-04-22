@@ -16,20 +16,15 @@ theme = 'PaperMod'
     ShowShareButtons = false
     ShowRssButtonInSectionTermList = false
 
+    [params.label]
+        text = "首页"
+
     [params.homeInfoParams]
         Title = "欢迎来到我的空间."
         Content = "Java & Go 语言后端 与 AI 应用开发"
 
-    [[params.socialIcons]]
-        name = "github"
-        url = "https://github.com/daidaiwoma"
-
-    [[params.socialIcons]]
-        name = "rss"
-        url = "/index.xml"
-
 # 导航栏配置
 [[menu.main]]
-    name = "~/posts"
+    name = "全部文章"
     url = "/posts/"
     weight = 10
